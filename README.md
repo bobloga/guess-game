@@ -1,2 +1,2 @@
 # guess-game
-guessing game 
+This is guessing game source code. User will prompt with hint continuosly.. 
